@@ -5,9 +5,20 @@
 .parent{
   border:2px solid blue;
 }
+table{
+  width: 90%;
+}
+td{
+  padding: 1%;
+}
+tr:nth-child(even){
+  background: #ddd;
+}
 a{
   word-wrap: break-word;
+  text-decoration: none;
 }
+
 .children{
   width: 30%;
   border: 2px solid red;
@@ -15,13 +26,18 @@ a{
   margin: 2%;
   border-radius: 10%;
   font-size: 15px;
+
 }
+
 .childtwo{
+
   width: 70%;
   border: 2px solid red;
   padding: 3px;
   margin: 2%;
   border-radius: 10%;
+  background-color: #04DD2C;
+
 }
 img{
 width: 40px;
@@ -67,4 +83,7 @@ border-radius: 20%;
   box-shadow: 6px 5px 1px 3px;
   border-radius: 50%;
   }
+}
+hr{
+  color: #ddd;
 }
