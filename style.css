@@ -4,6 +4,8 @@
 }
 .parent{
   border:2px solid blue;
+    background-color: #B3B6B7;
+  
 }
 table{
   width: 90%;
@@ -26,6 +28,7 @@ a{
   margin: 2%;
   border-radius: 10%;
   font-size: 15px;
+    background-color: #04DD2C;
 
 }
 
@@ -55,6 +58,7 @@ border-radius: 20%;
   }
   .parent{
     border:2px solid blue;
+
   }
   .children{
       background-color: powderblue;
@@ -83,7 +87,4 @@ border-radius: 20%;
   box-shadow: 6px 5px 1px 3px;
   border-radius: 50%;
   }
-}
-hr{
-  color: #ddd;
 }
