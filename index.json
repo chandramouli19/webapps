@@ -1,0 +1,29 @@
+{
+"profile":{
+  "name":"chandramouli",
+  "image":"1.png",
+  "email":"chandramouli26324@gmail.com",
+  "mobile":"7095670290"
+},
+
+"career":{
+  "info":"to pursedfshdsfhdzvjhfvhvfhfmjhbv"
+},
+"education" :[
+  {
+    "degree":"B-tech",
+    "institute":"pvp",
+    "data":["2016-20","80%"]
+  },
+  {
+    "degree":"inter",
+    "institute":"sri  chaithanya",
+    "data":["2014-16","70%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"sree balajee vidyalayam",
+    "data":["2013-14","7.4%"]
+  }
+]
+}
